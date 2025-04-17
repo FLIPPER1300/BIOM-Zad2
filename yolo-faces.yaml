@@ -1,0 +1,6 @@
+train: data_split/train/images
+val: data_split/val/images
+test: data_split/test/images
+
+nc: 1
+names: ['face']
